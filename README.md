@@ -5,6 +5,10 @@
 
 Sometimes I'm doing something, sometimes it even might be useful.
 
+Some links
+
 Here are some languages I like to code with (or at least GitHub thinks so):
 
 [![](./profile/top-langs.svg)](https://github.com/stats-organization/github-readme-stats-action)
+
+<link rel="me" href="https://ruby.social/@botantony">
